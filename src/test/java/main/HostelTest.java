@@ -96,7 +96,6 @@ public class HostelTest {
 		
 		
 		
-//		fail("Not yet implemented");
 	}
 	@SuppressWarnings("static-access")
 	@Test
